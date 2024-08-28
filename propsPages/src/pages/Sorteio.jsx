@@ -3,7 +3,7 @@ import Titulo from '../components/Titulo'
 
 function Sorteio() {
     function sortear(){
-        let numero = Math.floor(Math.random() * 10) + 1
+        let numero = Math.floor(Math.random() * 100) + 1
         alert(numero)
     }
   return (
