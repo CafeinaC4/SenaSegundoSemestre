@@ -1,0 +1,8 @@
+.cardTopo{
+
+    height: 250px;
+    background-color: var(--cor-1);
+    color: var(--cor-2);
+    align-content: center;
+    text-align: center;
+}
