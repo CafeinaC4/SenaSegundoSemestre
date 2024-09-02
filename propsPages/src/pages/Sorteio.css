@@ -37,3 +37,9 @@
 .button:focus {
   background-color: #494949;
 }
+
+.numero{
+  color: rgb(58, 153, 39);
+  border-radius: 15%;
+  border-color: #29aa29;
+}
