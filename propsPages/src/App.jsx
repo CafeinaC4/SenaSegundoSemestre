@@ -5,6 +5,7 @@ import Home from './pages/Home'
 import Sorteio from './pages/Sorteio'
 import Dado from './pages/Dado'
 import Atividades from './pages/Atividades'
+import Revisão from './pages/Revisão'
 
 function App() {
 
@@ -16,6 +17,7 @@ function App() {
       {/* <Sorteio/> */}
       {/* <Dado/> */}
       <Atividades/>
+      {/* <Revisão/> */}
     </div>
   )
 }
