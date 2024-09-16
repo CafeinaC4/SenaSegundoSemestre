@@ -1,5 +1,5 @@
 // 
-// 
+// poppopopopopiiiiiiiiipooppopopopopi
 // 
 // -----------------------------------------------------------------------------------------------------------
 
@@ -72,15 +72,14 @@ function Atividades() {
         }
     }
 
-    //Code: Atividade 5.28 (resultado 4)
+    //Code: Atividade 5.28 (resultado 4), incompleto
     function abrir528(){
         let nomeCandidatosPresidente = []
         let idadeCandidatosPresidente = []
         let nomeCandidatosVicePresidente = []
         let idadeCandidatosVicePresidente = []
         let adicionarCandidato = Number(prompt("Deseja adicionar candidato? (1 para 'sim' e 2 para 'não')"))
-        let candidatoPresidenteProvavel 
-        let candidatoVicePresidenteProvavel
+        let candidatosProvaveis
         
 
         if(adicionarCandidato == 1){
@@ -89,7 +88,9 @@ function Atividades() {
             nomeCandidatosVicePresidente.push(prompt("Digite o nome do candidato a vice presidência"))
             idadeCandidatosVicePresidente.push(Number(prompt("Digita o tempo (em anos) que o candidato a vice presidência tem de experiencia")))
         }else{
-            
+
+            bwaocock
+
         }
 
     }
